@@ -1,6 +1,6 @@
 {
   "name": "@mateuszgazdziak/nest-module-starter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Nest npm module starter",
   "author": "Mateusz Gazdziak <mateusz.gazdziak@gmail.com>",
   "license": "MIT",
