@@ -14,11 +14,11 @@
     "skipLibCheck": true
   },
   "include": [
-    "lib/**/*"
+    "lib/**/*.ts"
   ],
   "exclude": [
     "node_modules",
     "**/*.spec.ts",
-    "tests",
+    "tests"
   ]
 }
