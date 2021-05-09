@@ -22,7 +22,6 @@ We use [Jest](https://github.com/facebook/jest) to write tests. Run our test sui
 
 ```
 npm test
-
 ```
 
 ### Code Style
