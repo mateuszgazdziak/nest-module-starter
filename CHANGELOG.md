@@ -1,9 +1,9 @@
-# 0.1.0 (2021-05-09)
+# 0.2.0 (2021-05-09)
 
 
 ### Features
 
-* init commit ([1875b67](https://github.com/mateuszgazdziak/nest-module-starter/commit/1875b6721af0e1d38b4b592fa056f8447d8900ce))
+* typo ([36e7a85](https://github.com/mateuszgazdziak/nest-module-starter/commit/36e7a851ce2674e96f53e00a1d3c6ccc6cebd543))
 
 
 

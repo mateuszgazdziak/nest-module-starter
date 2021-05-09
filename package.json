@@ -1,6 +1,6 @@
 {
   "name": "@mateuszgazdziak/nest-module-starter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Nest - modern, fast, powerful node.js web framework (@typeorm)",
   "author": "Mateusz Gazdziak",
   "license": "MIT",
