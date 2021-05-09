@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/mateuszgazdziak/nest-module-starter/compare/v0.4.0...v0.5.0) (2021-05-09)
+
+
+### Features
+
+* typo ([087cf6a](https://github.com/mateuszgazdziak/nest-module-starter/commit/087cf6a7f4cbd308afcfc72034accede122c4b5c))
+
+
+
 # [0.4.0](https://github.com/mateuszgazdziak/nest-module-starter/compare/v0.3.0...v0.4.0) (2021-05-09)
 
 
